@@ -58,7 +58,7 @@ Request Classification
 
 Clone the repository:
 
-    git clone YOUR_REPOSITORY_URL
+    git clone https://github.com/ajmal335/SupportFlow-AI.git
 
 Navigate into the project:
 
