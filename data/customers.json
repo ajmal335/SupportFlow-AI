@@ -1,0 +1,18 @@
+
+[
+    {
+        "customer_id": "CUST001",
+        "name": "Ali Khan",
+        "email": "ali@example.com"
+    },
+    {
+        "customer_id": "CUST002",
+        "name": "Sara Ahmed",
+        "email": "sara@example.com"
+    },
+    {
+        "customer_id": "CUST003",
+        "name": "Usman Malik",
+        "email": "usman@example.com"
+    }
+]
