@@ -4,6 +4,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+ADMIN_API_TOKEN = os.getenv("ADMIN_API_TOKEN")
+
 GOOGLE_API_KEY = os.getenv("GEMINI_API_KEY")
 
 if not GOOGLE_API_KEY:
